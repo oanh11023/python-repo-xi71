@@ -1,2 +1,5 @@
 # python-repo-xi71
-Company seem study her yes.
+
+This is a sample project written in **Go**.
+
+Generated automatically.
